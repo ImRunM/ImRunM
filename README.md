@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Imelda Run</h1>
+<h1 align="center">Hi 👋, I'm Imelda Run Montes</h1>
 - 👀 I'm interested in programming and music.<br>
 - 🎓 I'm studying Audiovisual systems engineering at UPC.<br>  
 - ✨ I’m currently learning Java GUI.<br> 
