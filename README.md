@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Imelda Run Montes</h1>
-- 👀 I'm interested in programming and music.<br>
-- 🎓 I'm studying Audiovisual systems engineering at UPC.<br>  
-- ✨ I’m currently working in my final degree tesis.<br> 
-- 🔎 I’m looking to collaborate on audio processing and software development projects.<br>
-- 📫 How to reach me rmm020723@gmail.com<br>
+
+- 🎓 **Recent Graduate** in Audiovisual Systems Engineering at UPC.
+- 🚀 Currently working as a Research/Innovation Intern at UPC's Innovation Department.
+- 👀 **Interests:** Machine Learning, Audio Signal Processing, Software Development, and Music Computing.
+- 📈 **Future Steps:** Preparing to pursue a Master’s degree specializing in Sound and Music Technologies.
+- 🔎 I’m looking to collaborate on audio processing, DSP, and AI projects.
+- 📫 **How to reach me:** rmm020723@gmail.com
+
+---
+
+### 🛠️ Tech Stack
+* **Programming:** Python, C++, MATLAB, Java, SQL
+* **AI & Data Science:** Scikit-learn, PyTorch, NumPy, Pandas
+* **Audio & Signal Processing:** Librosa, SciPy (Signal)
+* **Tools:** Git, GitHub
