@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Imelda Run Montes</h1>
 
-- 🎓 **Recent Graduate** in Audiovisual Systems Engineering at UPC.
+- 🎓 **Recent Graduate** in Audiovisual Systems Engineering at Universitat Politècnica de Catalunya, UPC.
 - 🚀 Currently working as a Research/Innovation Intern at UPC's Innovation Department.
 - 👀 **Interests:** Machine Learning, Audio Signal Processing, Software Development, and Music Computing.
 - 📈 **Future Steps:** Preparing to pursue a Master’s degree specializing in Sound and Music Technologies.
