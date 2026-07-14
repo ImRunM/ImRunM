@@ -10,7 +10,7 @@
 ---
 
 ### 🛠️ Tech Stack
-* **Programming:** Python, C++, MATLAB, Java, SQL
+* **Programming:** Python, C++, MATLAB, Java, SQL, VHDL
 * **AI & Data Science:** Scikit-learn, PyTorch, NumPy, Pandas
 * **Audio & Signal Processing:** Librosa, SciPy (Signal)
 * **Tools:** Git, GitHub
